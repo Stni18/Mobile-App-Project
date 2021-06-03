@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:background = "@color/colorPrimary"
+    android:foreground = "@color/colorAccent"
+    tools:context = ".MainActivity">
+
+    <item
+        android:id="@+id/menu_survey"
+        android:title="@string/menu_survey"
+        android:background = "@color/colorPrimary"
+        android:foreground="@color/colorAccent"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/menu_webpage"
+        android:title="@string/menu_webpage"
+        android:background = "@color/colorPrimary"
+        android:foreground="@color/colorAccent"
+        android:orderInCategory="101"/>
+
+    <item
+        android:id="@+id/menu_video"
+        android:title="@string/menu_video"
+        android:background = "@color/colorPrimary"
+        android:foreground="@color/colorAccent"
+        android:orderInCategory="101"/>
+
+</menu>

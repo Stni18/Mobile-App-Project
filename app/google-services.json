@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19808193555",
+    "firebase_url": "https://tabbedactivity-3cc3d-default-rtdb.firebaseio.com",
+    "project_id": "tabbedactivity-3cc3d",
+    "storage_bucket": "tabbedactivity-3cc3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19808193555:android:49d331a398e28c26ac03e6",
+        "android_client_info": {
+          "package_name": "com.steven.tabbedactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19808193555-vogim16vivu3fr08nkqqp32qvo6fcdvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steven.tabbedactivity",
+            "certificate_hash": "475e75adf11daaceb723433ede5b4f2ff056cfc9"
+          }
+        },
+        {
+          "client_id": "19808193555-ps5gumkbm1pvr7hmfdg2969e5e5k0ite.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5z0YwAF7SauPiSh2k7rrjWjOiu1FvxxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19808193555-ps5gumkbm1pvr7hmfdg2969e5e5k0ite.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

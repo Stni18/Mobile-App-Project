@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TabbedActivity</string>
+    <string name="tab_text_1">Group</string>
+    <string name="tab_text_2">Shulk</string>
+    <string name="tab_text_3">Reyn</string>
+    <string name="tab_text_4">Dunban</string>
+    <string name="tab_text_5">Sharla</string>
+    <string name="tab_text_6">Fiora</string>
+    <string name="tab_text_7">Melia</string>
+    <string name="tab_text_8">Riki</string>
+
+    <string name="menu_title">Menu</string>
+    <string name="menu_survey">Survey</string>
+    <string name="menu_webpage">WebPage</string>
+    <string name="menu_video">Video</string>
+
+    <string name="survey_name">Survey Character Form</string>
+    <string name="lbl_personaje_favorito">Select your favorite character</string>
+    <string name="lbl_personaje_rango"> Rank your favorite character: </string>
+
+    <string name="lbl_personaje_dob">Enter your date of birth:</string>
+    <string name="lbl_personaje_years_old">Years Old</string>
+    <string name="lbl_personaje_gender">Select your gender:</string>
+    <string name="lbl_personaje_gender_male">Male</string>
+    <string name="lbl_personaje_gender_female">Female</string>
+    <string name="lbl_personaje_btn_image">Click to display the calendar:</string>
+    <string name="lbl_personaje_btn_survey">Send Survey Data</string>
+    <string name="msg_error_db">Database Error</string>
+    <string name="msg_error_field">Error: Field Value Required</string>
+    <string name="msg_send_survey_data">Info: Survey data submission completed</string>
+
+
+    <string-array name="personaje_spinner">
+        <item>Shulk</item>
+        <item>Reyn</item>
+        <item>Dunban</item>
+        <item>Sharla</item>
+        <item>Fiora</item>
+        <item>Melia</item>
+        <item>Riki</item>
+    </string-array>
+
+    <string name="err_msg_image">Invalid Character Image...</string>
+    <string name="err_msg_sound">Invalid Character Sound...</string>
+</resources>
